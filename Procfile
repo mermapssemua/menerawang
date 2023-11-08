@@ -1,1 +1,1 @@
-bot: python bot.py ￼Enter
+bot: python bot.py
