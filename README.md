@@ -9,7 +9,7 @@
 `repo_url`  GitHub Repository Url
 if private url format:
 https://{token}@github.com/{username}{repo_url}
-`run_cmd` which means if your runner is .py file use that name filename.py eg bot.py else a module use -m modulename eg -m mbot 
+`run_cmd` which means if your runner is .py file use python3 filename.py eg python3 bot.py else a module use python3 -m modulename eg python3 -m mbot 
 also don't forget to remove {}
 
 ![1000003290](https://github.com/Masterolic/Heroku-Deployer/assets/93469093/575d32ae-d58a-4a65-8691-ab866df72308)
